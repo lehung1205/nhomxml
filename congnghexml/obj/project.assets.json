@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nhomxml\\congnghexml\\congnghexml\\congnghexml.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\nhomxml\\nhomxml\\congnghexml\\congnghexml.csproj",
       "projectName": "congnghexml",
-      "projectPath": "D:\\nhomxml\\congnghexml\\congnghexml\\congnghexml.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\nhomxml\\nhomxml\\congnghexml\\congnghexml.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\nhomxml\\congnghexml\\congnghexml\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\nhomxml\\nhomxml\\congnghexml\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

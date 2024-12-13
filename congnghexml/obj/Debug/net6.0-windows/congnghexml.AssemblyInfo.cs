@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("congnghexml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b76a73de6f6d2dd5efd1058e272ab6185dec96")]
 [assembly: System.Reflection.AssemblyProductAttribute("congnghexml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("congnghexml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
